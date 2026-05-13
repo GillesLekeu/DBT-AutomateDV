@@ -1,0 +1,24 @@
+version: 2
+sources:
+- name: DBT
+  database: Gilles
+  schema: Test
+  tables:
+  - name: ACCOUNTS
+  - name: AGENTS
+  - name: ALERTS
+  - name: ATMS
+  - name: ATMTRANSACTIONS
+  - name: BENEFICIARIES
+  - name: BRANCHES
+  - name: CARDTRANSACTIONS
+  - name: CREDITCARDS
+  - name: CUSTOMERS
+  - name: EMPLOYEES
+  - name: FEEDBACK
+  - name: INSURANCEPOLICIES
+  - name: LOANS
+  - name: PAYMENTS
+  - name: SERVICES
+  - name: TICKETS
+  - name: TRANSACTIONS

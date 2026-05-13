@@ -12,6 +12,7 @@ sources:
   - name: BENEFICIARIES
   - name: BRANCHES
   - name: CARDTRANSACTIONS
+  - name: CATEGORIES
   - name: CREDITCARDS
   - name: CUSTOMERS
   - name: EMPLOYEES

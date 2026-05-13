@@ -1,7 +1,7 @@
 version: 2
 sources:
 - name: DBT
-  database: Gilles
+  database: Snowflake
   schema: Test
   tables:
   - name: ACCOUNTS
